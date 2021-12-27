@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+/* custom */
+.page-header{background-image: url(../img/header-bg.jpg); padding-bottom: 300px;}
+.page-header-content{padding: 300px 0 50px !important;}
